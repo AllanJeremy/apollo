@@ -3,6 +3,8 @@ title: '1. Build a schema'
 description: Create a blueprint for your graph's data
 ---
 
+Time to accomplish: _12 Minutes_
+
 The first step on our journey toward building our graph API is constructing its **schema**. You can think of a schema as a blueprint for all of the data you can access in your graph. Throughout this section, you'll learn how to build and explore your graph's schema with Apollo.
 
 ## Set up Apollo Server
